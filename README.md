@@ -3,6 +3,7 @@
 ## Overview
 
 SyncCode is built with ReactJS, Tailwind CSS and ShadCN UI in frontend and Node.js, Express and Socket.io in backend. It has following features:
+
 - **Multi users support**: Multiple users can join a room and code together.
 - **Multi room support**: Users can create countless number of rooms.
 - **Different Languages**: Users can code in different languages.
@@ -23,26 +24,35 @@ SyncCode is built with ReactJS, Tailwind CSS and ShadCN UI in frontend and Node.
 ### Installation
 
 1. Clone the repository:
+
 ```bash
-   git clone https://github.com/bishalmoktan/SyncCode.git
-   ```
+   git clone https://github.com/ashdotenv/CodeSync
+```
+
 2. Navigate to the directory
+
 ```bash
    cd SyncCode
-   ```
+```
+
 3. Install the dependencies
+
 ```bash
    npm install
-   ```
+```
+
 ### Running the App
+
 Start the development server:
-``` bash
+
+```bash
 npm run dev
 ```
+
 or
+
 ```bash
 yarn dev
 ```
+
 Open http://localhost:3000 in your browser to see the app in action.
-
-
