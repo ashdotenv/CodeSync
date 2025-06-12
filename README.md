@@ -1,4 +1,4 @@
-# SyncCode
+# CodeSync
 
 ## Overview
 
@@ -32,7 +32,7 @@ SyncCode is built with ReactJS, Tailwind CSS and ShadCN UI in frontend and Node.
 2. Navigate to the directory
 
 ```bash
-   cd SyncCode
+   cd CodeSync
 ```
 
 3. Install the dependencies
